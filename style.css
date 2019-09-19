@@ -1,0 +1,79 @@
+.login{
+	margin: 0 auto;
+	margin-left: 49px;
+	margin-top: 28px;
+	width: 300px;
+}
+.lgn-color{
+	background-color: #a0b5ce;
+	margin: 0 auto;
+	margin-top: 160px;
+	width: 400px;
+	height: 350px;
+	border: 1px solid transparent;
+	border-radius: 1rem;
+}
+
+.cnt-color{
+	background-color: #a0b5ce;
+	margin: 0 auto;
+	margin-top: 160px;
+	/*margin-left: 50px;*/
+	width: 400px;
+	height: 400px;
+	border: 1px solid transparent;
+	border-radius: 1rem; 
+}
+
+.cnt-logo{
+	width: 35px;
+	margin-left: 30px;
+	/*margin-top: 120px;*/
+}
+
+.cnt-color-2{
+	margin: 0 auto;
+	background-color: white;
+	margin-top: 44px;
+	margin-left: 48.6px;
+	width: 300px;
+	height: 300px;
+	border: 1px solid transparent;
+	border-radius: 1rem;
+}
+
+.cnt-postion{
+	margin-top: 85px;
+	margin-left: 20px;
+}
+
+.register{
+	margin: 0 auto;
+	margin-top: 70px;
+	margin-left: 845px;
+	width: 400px;
+}
+
+.nama{
+	width: 191.3px;
+}
+
+.nama2{
+	margin-left: 15px;
+}
+
+.logo{
+	width: 100px;
+}
+
+.login-btn{
+	margin-left: 1070px;
+}
+
+.kotak{
+	margin: 0 auto;
+	margin-left: 120px;
+	margin-top: 120px;
+	width: 100px;
+	background-color: black;
+}
