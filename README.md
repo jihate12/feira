@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jihate12
 - 👀 I’m interested in Website Developing
-- 🌱 I’m currently learning HTML,CSS,JavaScrip,PHP,SCSS
+- 🌱 I’m currently learning HTML,CSS,JavaScrip,PHP,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
